@@ -32,12 +32,12 @@ This project analyzes Airbnb rental data in Sydney to support hosts, property ma
 ### 1. Predictive Modeling
 Evaluated multiple models using RMSE, R², and MAE.
 **XGBoost** achieved the best overall performance (Test RMSE: 217.1, Test R²: 0.604), showing strong predictive ability.
-**Final recommendation**: Tree-based models (especially XGBoost) provide the most reliable predictions for Airbnb rental pricing.
+**Final recommendation:** Tree-based models (especially XGBoost) provide the most reliable predictions for Airbnb rental pricing.
 
 ### 2. Business Insights (Best Hosts’ Practices)
-**Review Ratings Matter**: Higher guest ratings are strongly linked to increased demand and revenue. Properties in scenic suburbs (e.g., Pittwater, Mosman) often achieve higher review scores, suggesting that location quality plays a key role in long-term earnings.
-**Strategic Pricing Factors**: Average price is around $350 per night, with a range from budget ($17) to luxury ($2,617). Both guest capacity and bathrooms significantly influence price.
-**Interaction Effect**: The combination of more guest capacity and more bathrooms has the largest positive impact on price, outperforming either factor alone.
-**Recommendation for Hosts/Investors**: Improve both capacity (extra beds, reconfigured spaces) and bathroom facilities to maximize listing price and revenue. Invest in scenic or coastal properties to attract higher demand and long-term profitability.
+**Review Ratings Matter:** Higher guest ratings are strongly linked to increased demand and revenue. Properties in scenic suburbs (e.g., Pittwater, Mosman) often achieve higher review scores, suggesting that location quality plays a key role in long-term earnings.
+**Strategic Pricing Factors:** Average price is around $350 per night, with a range from budget ($17) to luxury ($2,617). Both guest capacity and bathrooms significantly influence price.
+**Interaction Effect:** The combination of more guest capacity and more bathrooms has the largest positive impact on price, outperforming either factor alone.
+**Recommendation for Hosts/Investors:** Improve both capacity (extra beds, reconfigured spaces) and bathroom facilities to maximize listing price and revenue. Invest in scenic or coastal properties to attract higher demand and long-term profitability.
 
 
