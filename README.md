@@ -1,6 +1,5 @@
 # Airbnb-House-Price-Analysis-and-Prediction
-[Download Dataset](https://github.com/syan0293/Airbnb-House-Price-Analysis-and-Prediction
-/releases/download/v1.0/data.zip)
+[Download Dataset](https://github.com/syan0293/Airbnb-House-Price-Analysis-and-Prediction/releases/download/v1.0/data.zip)
 ## Overview
 This project analyzes Airbnb rental data in Sydney to support hosts, property managers, and real estate investors. The project includes data cleaning, exploratory analysis (EDA), feature engineering, model building, and evaluation. The final output provides pricing recommendations and practical advice for Airbnb stakeholders.
 ## Key Features
