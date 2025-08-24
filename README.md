@@ -3,30 +3,30 @@
 This project analyzes Airbnb rental data in Sydney to support hosts, property managers, and real estate investors. The project includes data cleaning, exploratory analysis (EDA), feature engineering, model building, and evaluation. The final output provides pricing recommendations and practical advice for Airbnb stakeholders.
 ## Key Features
 ### Exploratory Data Analysis (EDA)
-Data cleaning, including handling missing values, redundant variables, and potential data leakage.
-Detection and treatment of outliers.
-Visualization of rental price distributions across locations and property types.
-Analysis of relationships between rental prices and predictors (e.g., location, amenities, host attributes).
+- Data cleaning, including handling missing values, redundant variables, and potential data leakage.
+- Detection and treatment of outliers.
+- Visualization of rental price distributions across locations and property types.
+- Analysis of relationships between rental prices and predictors (e.g., location, amenities, host attributes).
 
 ### Feature Engineering
-Creation of derived features from geographic variables (latitude, longitude).
-Transformation of categorical and binary variables into usable formats.
-Incorporation of text-based features where applicable.
+- Creation of derived features from geographic variables (latitude, longitude).
+- Transformation of categorical and binary variables into usable formats.
+- Incorporation of text-based features where applicable.
 
 ### Machine Learning & Regression Modeling
-Implementation of multiple predictive models (linear, tree-based, ensemble/stacked).
-Use of Ordinary Least Squares (OLS) and advanced machine learning algorithms.
-Hyperparameter tuning and model configuration.
+- Implementation of multiple predictive models (linear, tree-based, ensemble/stacked).
+- Use of Ordinary Least Squares (OLS) and advanced machine learning algorithms.
+- Hyperparameter tuning and model configuration.
 
 ### Model Evaluation
-Cross-validation for performance comparison.
-Benchmark model selection and performance tracking.
-Validation of prediction accuracy with appropriate metrics (e.g., RMSE, MAE).
+- Cross-validation for performance comparison.
+- Benchmark model selection and performance tracking.
+- Validation of prediction accuracy with appropriate metrics (e.g., RMSE, MAE).
 
 ### Data Mining & Business Insights
-Identification of host practices linked to higher revenue and better performance.
-Extraction of at least three actionable insights for hosts and investors.
-Clear distinction between association and causation when interpreting results.
+- Identification of host practices linked to higher revenue and better performance.
+- Extraction of at least three actionable insights for hosts and investors.
+- Clear distinction between association and causation when interpreting results.
 
 ## Results
 ### 1. Predictive Modeling
